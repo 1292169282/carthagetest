@@ -6,6 +6,8 @@
 	<dict>
 		<key>carthtest.xcscheme</key>
 		<dict>
+			<key>isShown</key>
+			<false/>
 			<key>orderHint</key>
 			<integer>1</integer>
 		</dict>
@@ -18,6 +20,29 @@
 		<dict>
 			<key>orderHint</key>
 			<integer>2</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>841F66F1230530BD0065A603</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>841F6709230530BE0065A603</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>841F6714230530BF0065A603</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>841F6733230530FB0065A603</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
