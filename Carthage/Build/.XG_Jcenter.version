@@ -1,0 +1,18 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "f0f62632c0fa9cb0c5a7ce46ed07ce4eeaa8ed31",
+  "iOS" : [
+    {
+      "name" : "Carthage",
+      "hash" : "3a497eee14f160005df71cfa252d365e8687a02a76bbbde4522c8bcbd5e51ec1"
+    }
+  ]
+}
